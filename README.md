@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Jeffrey Kwok, a 4th year computer science student at the University of British Columbia in Vancouver, Canada. In a previous life, I was a travel and loyalty industry consultant and writer. I have a degree in Finance from the Sauder School of Business.
+- 👋 Hi, I’m Jeff, a 4th year computer science student at the University of British Columbia in Vancouver, Canada. In a previous life, I was a travel and loyalty industry consultant and writer. I have a degree in Finance from the Sauder School of Business.
